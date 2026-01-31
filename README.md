@@ -7,11 +7,9 @@ This test suite contains automated test for SwiftTransalator Singlish to sinhala
 -10 negative functiona scenarios 
 -1 UI negative test senario
 
-
 3. Requirements / Prerequisites
 
 Tell the reader what they need to run the project: Node.js and Playwright.
-Example:
 
 Requirements
 - Node.js installed 
@@ -19,9 +17,7 @@ Requirements
 
 3. Installation Instructions
 
-Step-by-step instructions to set up the project on someone else’s computer.
-Example:
-
+Step-by-step instructions to set up the project on computer.
 
 1. Clone the Git repository:
 
