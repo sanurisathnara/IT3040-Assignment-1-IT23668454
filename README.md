@@ -3,9 +3,9 @@
 1. Project Overview
 This test suite contains automated test for SwiftTransalator Singlish to sinhala conversion system using Playwright.
 
-24 positive functional scenarios 
-10 negative functiona scenarios 
-1 UI negative test senario
+-24 positive functional scenarios 
+-10 negative functiona scenarios 
+-1 UI negative test senario
 
 
 3. Requirements / Prerequisites
